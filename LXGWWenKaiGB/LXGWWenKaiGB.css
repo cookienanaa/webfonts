@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'LXGWWenKaiGB';
+  src: url('./fonts/LXGWWenKai-Regular.tff') format('tff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LXGWWenKaiGB-Bold';
+  src: url('./fonts/LXGWWenKai-Bold.tff') format('tff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LXGWWenKaiGB-Light';
+  src: url('./fonts/LXGWWenKai-Light.tff') format('tff');
+  font-weight: 300;
+  font-style: normal;
+}
